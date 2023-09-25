@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL</key>
+	<string>https://thoughtworks.okta.com/oauth2/v1/authorize?client_id=okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26&amp;code_challenge=vAOIlcAm45WSwrRNY5SO8odrwzjR7ydHkAAroF62g_s&amp;code_challenge_method=S256&amp;nonce=HO2SMKyB5ulGZA7jFjX8MrMnbK3AIxXhj4EGGtKSsblgOTcGznvjze62PyIbnRsq&amp;redirect_uri=https%3A%2F%2Fthoughtworks.okta.com%2Fenduser%2Fcallback&amp;response_type=code&amp;state=DzY4AygtArZZLOPrsjnkLxkQYPKTsJyXAlpeHqPsL3p4XPU6QBIlo1MAtAwd8D00&amp;scope=openid%20profile%20email%20okta.users.read.self%20okta.users.manage.self%20okta.internal.enduser.read%20okta.internal.enduser.manage%20okta.enduser.dashboard.read%20okta.enduser.dashboard.manage</string>
+</dict>
+</plist>
